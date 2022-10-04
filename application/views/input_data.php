@@ -32,5 +32,6 @@
 				<td><input type="submit" value="Tambah"> <input type="reset" value="Batal"> <?php echo anchor('kampus/index','<input type=button value=Kembali>'); ?></td>
 			</tr>
 		</table>
+	</form>
 </body>
 </html>
